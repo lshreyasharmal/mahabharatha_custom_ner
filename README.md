@@ -1,6 +1,6 @@
 ## Paper
 
-This repository contains the manually annotated dataset used for research in paper titled "Comparative Analysis of Entity Identification and Classification of Indian Epics".
+This repository contains the manually annotated dataset used for research in paper titled "Comparative Analysis of Entity Identification and Classification of Indian Epics" published in the ACM International Conference on Multimodal Interaction 2022.
 
 ## Dataset Details
 
